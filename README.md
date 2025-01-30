@@ -4,10 +4,15 @@ It employs Physics Informed Neural networks to solve the Hamilton-Dirac equation
 Dependencies
 
 HDNN requires the following libraries:
+
 Python 3.8+
+
 PyTorch
+
 NumPy
+
 SciPy
+
 Matplotlib (for visualization)
 
 
