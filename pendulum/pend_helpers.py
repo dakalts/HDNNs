@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 @author: Dimitrios Kaltsas
-Hamilton-Dirac-PINNs
-
-adapted from Marios Mattheakis Hamiltonian-PINNs
+Helper functions for Planar pendulum HDNN
 """
+
 import numpy as np
 from scipy.integrate import odeint, solve_ivp
    
