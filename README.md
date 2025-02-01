@@ -17,10 +17,16 @@ Matplotlib (for visualization)
 
 
 @article{Kaltsas2025a,
+
   author  = {Dimitrios A. Kaltsas},
+  
   title   = {Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks},
+  
   journal = {Physical Review E},
+  
   year    = {2025},
+  
   volume  = {XX},
+  
   pages   = {XX--XX},
 }
