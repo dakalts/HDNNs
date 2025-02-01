@@ -15,6 +15,9 @@ SciPy
 
 Matplotlib (for visualization)
 
+Citation: D. A. Kaltsas "Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks", Phys. Rev. E (2025).
+
+Bibtex citation:
 
 @article{Kaltsas2025a,
 
