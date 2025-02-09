@@ -5,7 +5,7 @@
 
 Code for the paper:
 "Constraint Hamiltonian systems and physics-informed neural networks: Hamilton-Dirac neural networks"
-by D. A. Kaltsas, Physical Review E (2025).
+by D. A. Kaltsas, Physical Review E 111, 025301 (2025).
 
 Example 1: HDNN for the Planar Pendulum
 
@@ -23,7 +23,7 @@ import time
 import sys
 from os import path
 import matplotlib.pyplot as plt
-from pend_helpers import RK45, LSODA, energy, saveData
+from pend_helpers import LSODA
 from IPython import get_ipython
 
 # Set up plotting and clear cache
