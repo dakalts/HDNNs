@@ -337,12 +337,12 @@ def loss_plots(loss, loss_eq, loss_erg, loss_constr, l2err, w_constr):
     plt.show()
 
 
-def load_data(theta0, w_constr):
+def load_data(m0, w_constr):
     """
     Loads model and loss data from files, then generates loss plots.
     
     Parameters:
-    theta0 (float): Initial angle.
+    m0 (float): mean mass parameter
     w_constr (float): Constraint weight used in filenames.
     """
     model = loadModel()
@@ -356,7 +356,7 @@ def load_data(theta0, w_constr):
     
     from pred_solutions import pred_solutions
     # Generate prediction
-    pred_solutions(theta0, P0, N, t_max, model, device, gamma, n_train, Tpend, w_constr, dt)
+    pred_solutions(m0, P0, N, t_max, model, device, gamma, n_train, Tpend, w_constr, dt)
     
     # Plot loss data
     loss_plots(loss, loss_eq, loss_erg, loss_constr, l2err, w_constr)
