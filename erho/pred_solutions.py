@@ -1,6 +1,6 @@
 import numpy as np
 import torch
-from HDNN_erho_multiple import *
+from HDNN_erho_multi_eps import *
 import matplotlib.pyplot as plt
 from IPython import get_ipython
 import time
