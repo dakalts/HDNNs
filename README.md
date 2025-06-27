@@ -23,7 +23,9 @@ Matplotlib (for visualization)
 
 - Bibtex citation:
 
-@article{Kaltsas2025a,                                                                                                                                                                                                    author  = {Dimitrios A. Kaltsas},   
+@article{Kaltsas2025a,    
+
+author  = {Dimitrios A. Kaltsas},   
 
 title   = {Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks},   
 
