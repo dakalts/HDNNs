@@ -1,8 +1,10 @@
 # Hamilton-Dirac Neural Networks (HDNNs)
+
+## Desicription
 HDNNs (Hamilton-Dirac Neural Networks) is a deep learning method for the unsupervised learning of constrained Hamiltonian systems. 
 It employs Physics Informed Neural networks to solve the Hamilton-Dirac equations, enabling the learning of constrained symplectic dynamics without labeled data. 
 
-Dependencies
+## Dependencies
 
 HDNN requires the following libraries:
 
@@ -16,7 +18,8 @@ SciPy
 
 Matplotlib (for visualization)
 
-Citation: D. A. Kaltsas "Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks", Phys. Rev. E 111, 025301 (2025).
+## Citation 
+D. A. Kaltsas "Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks", Phys. Rev. E 111, 025301 (2025).
 
 Bibtex citation:
 
@@ -32,5 +35,5 @@ volume  = {111},
 
 pages   = {025301},
 
-doi = {https://doi.org/10.1103/PhysRevE.111.025301 }
+doi = {https://doi.org/10.1103/PhysRevE.111.025301/}
 }
