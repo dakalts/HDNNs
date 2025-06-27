@@ -19,9 +19,9 @@ SciPy
 Matplotlib (for visualization)
 
 ## Citation 
-D. A. Kaltsas "Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks", Phys. Rev. E 111, 025301 (2025).
+- D. A. Kaltsas "Constrained Hamiltonian Systems and Physics-Informed Neural Networks: Hamilton-Dirac Neural Networks", Phys. Rev. E 111, 025301 (2025).
 
-Bibtex citation:
+- Bibtex citation:
 
 @article{Kaltsas2025a,                                                                                                                                                                                                    author  = {Dimitrios A. Kaltsas},   
 
@@ -35,5 +35,5 @@ volume  = {111},
 
 pages   = {025301},
 
-doi = {{https://doi.org/10.1103/PhysRevE.111.025301}}
+doi = {PhysRevE.111.025301}
 }
