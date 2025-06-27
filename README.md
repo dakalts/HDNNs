@@ -35,5 +35,5 @@ volume  = {111},
 
 pages   = {025301},
 
-doi = {https://doi.org/10.1103/PhysRevE.111.025301/}
+doi = {{https://doi.org/10.1103/PhysRevE.111.025301}}
 }
